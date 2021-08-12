@@ -1,5 +1,4 @@
-# Spring
+# Spring 수업
+교재: 스프링 퀵스타트
 
-@Component
-@Autowired (org.springframework.beans.factory.annotation.Autowired)
-@Qualifier (org.springframework.beans.factory.annotation.Qualifier)
+
